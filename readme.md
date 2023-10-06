@@ -64,7 +64,11 @@ Chaque pièce peut se déplacer au choix du joueur sur l'une des cases marquées
 
 ## **Les Ouvertures**
 
- L’ouverture est la première phase d'une partie d'échecs. Elle s'arrête lorsque les forces des deux adversaires sont mobilisées et que les rois sont en sécurité. Il existe différents types d'ouvertures tel que  l'Espagnole [[footnote]] 1. e4 e5 2. Cf3 Cg6 3. Fb5[[/footnote]], le Gambit Dame [[footnote]] 1.D4 D5 2. C4[[/footnote]], la Scandinave [[footnote]] 1. E4 D5[[/footnote]], l'Anglaise [[footnote]] 1. C4[[/footnote]].... 
+L’ouverture est la première phase d'une partie d'échecs. Elle s'arrête lorsque les forces des deux adversaires sont mobilisées et que les rois sont en sécurité. Il existe différents types d'ouvertures tel que  l'Espagnole [^1],
+Le Gambit Dame[^2]
+La Scandinave [^3]
+L'Anglaise [^4]
+
 
 ------
 
@@ -80,14 +84,14 @@ Chaque pièce peut se déplacer au choix du joueur sur l'une des cases marquées
 
 ## **Programme informatique**
 
-Un des objectifs des premiers informaticiens a été de mettre au point des machines capables de jouer aux échecs. De nos jours, le jeu est profondément influencé par les capacités des programmes joueurs d'échecs, ainsi que par la possibilité de jouer sur Internet. En 1997, Deep Blue devient le premier ordinateur à battre un champion du monde en titre dans un match qui l'oppose à Garry Kasparov. Les programmes actuels ont un niveau largement supé[[include :irongiant:clone]]
-
-res.
+Un des objectifs des premiers informaticiens a été de mettre au point des machines capables de jouer aux échecs. De nos jours, le jeu est profondément influencé par les capacités des programmes joueurs d'échecs, ainsi que par la possibilité de jouer sur Internet. En 1997, Deep Blue devient le premier ordinateur à battre un champion du monde en titre dans un match qui l'oppose à Garry Kasparov. Les programmes actuels ont un niveau largement supérieur.
 
 
 
-
-
+[^1]: e4 e5 2. Cf3 Cg6 3. Fb5
+[^2]: 1.D4 D5 2. C4
+[^3]: 1. E4 D5
+[^4]: 1. C4
 
 
 
