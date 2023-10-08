@@ -11,7 +11,7 @@
 
 ------
 
-## ***Définition***
+### ***Définition***
 
 **Les échecs**, ou le **jeu d'échecs**, sont un [jeu de société](https://fr.wikipedia.org/wiki/Jeu_de_soci%C3%A9t%C3%A9) opposant deux joueurs de part et d'autre d'un [tablier](https://fr.wikipedia.org/wiki/Tablier)(jeu) appelé [échiquier](https://fr.wikipedia.org/wiki/%C3%89Echiquier) composé de soixante-quatre cases, **32 claires** et **32 sombres** nommées les cases blanches et les cases noires. Les joueurs jouent __à tour de rôle__ en déplaçant l'une de leurs seize pièces (ou deux pièces en cas de roque), claires pour le camp des blancs, sombres pour le camp des noirs. Chaque joueur possède au départ **un roi, une dame, deux tours, deux fous, deux cavaliers et huit pions.** Le but du jeu est d'infliger à son adversaire un __échec et mat__, une situation dans laquelle **le roi d'un joueur est en prise sans qu'il soit possible d'y remédier.** 
 
@@ -20,7 +20,7 @@
 
 ------
 
-## ***Histoire***
+### ***Histoire***
 
 Le jeu a été introduit dans le __Sud de l'Europe__ à partir du __Xe siècle__ par __les Arabes__, mais on ignore où il fut inventé exactement. Il dérive du **shatranj** ou **chatrang** qui lui-même est la version **perse du chaturanga** de **l'Inde classique**. Les règles actuelles se fixent à partir de la fin du *XVe siècle.* Le jeu d'échecs est l'un des jeux de réflexion les plus *populaires au monde*.
 
@@ -32,7 +32,7 @@ La **compétition aux échecs** existe depuis les __origines.__ On en trouve tra
 
 ------
 
-## ***Règles du jeu***
+### ***Règles du jeu***
 
 Une partie d'échecs commence dans la *position initiale*, **les blancs jouent le premier coup** puis les joueurs jouent **à tour de rôle** en déplaçant à chaque fois *une* de leurs pièces **(deux dans le cas d'un roque)** G 7. Chaque pièce se déplace de *façon spécifique*, il n'est pas possible de jouer sur une *case occupée* par une **pièce de son propre camp**. Lorsqu'une pièce adverse se trouve sur la case d'arrivée de la pièce jouée, *elle est capturée et retirée de l'échiquier.* Gagner du **« matériel »** (des pièces) est un moyen pour gagner la partie, mais ne suffit pas toujours pour y parvenir.
 
@@ -46,7 +46,7 @@ Le *but du jeu* est donc d'infliger un **échec et mat** à son adversaire. Le t
 
 ------
 
-## ***Déplacements***
+### ***Déplacements***
 
 Chaque pièce peut se déplacer au **choix du joueur** sur l'une des *cases marquées* d'une croix. Hormis le **pion**, *elles capturent une pièce adverse qui se trouve sur leur trajectoire, sans pouvoir aller au-delà*. À l'exception de la **prise en passant**, la pièce qui capture **prend la place de la pièce capturée**, cette dernière étant définitivement *retirée de l'échiquier.* 
 
@@ -62,7 +62,7 @@ Chaque pièce peut se déplacer au **choix du joueur** sur l'une des *cases marq
 
 ------
 
-## ***Les Ouvertures***
+### ***Les Ouvertures***
 
 L’ouverture est la **première phase** d'une partie d'échecs. Elle s'arrête lorsque les *forces des deux adversaires sont mobilisées et que les rois sont en sécurité.* Il existe différents types d'ouvertures tel que  l'Espagnole [^1],
 Le Gambit Dame[^2]
@@ -72,7 +72,7 @@ L'Anglaise [^4]
 
 ------
 
-## ***Les Qualités Nécessaires***
+### ***Les Qualités Nécessaires***
 
 * Patience
 * Refléxion
@@ -82,7 +82,7 @@ L'Anglaise [^4]
 
 ------
 
-## ***Programme informatique***
+### ***Programme informatique***
 
 Un des objectifs des *premiers informaticiens* a été de mettre au point des **machines capables de jouer aux échecs**. De nos jours, le jeu est *profondément influencé* par les *capacités des programmes joueurs d'échecs*, ainsi que par la possibilité de jouer sur Internet. *En 1997*, **Deep Blue devient le premier ordinateur à battre un champion du monde en titre dans un match qui l'oppose à Garry Kasparov**. Les programmes actuels ont un niveau largement supérieur.
 
